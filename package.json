@@ -1,24 +1,14 @@
 {
-  "name": "hello-world-node-ha",
-  "description": "Simple Hello World index.js sample for Azure App Service",
-  "version": "15.10.0",
-  "private": true,
-  "license": "MIT",
-  "author": "Microsoft",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/henrisky/PracticeNode.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/henrisky/PracticeNode/issues"
-  },
-  "homepage": "https://github.com/henrisky/PracticeNode#readme",
-  "dependencies": {
-    "express": "^4.17.3"
-  }
+    "name": "app-service-hello-world",
+    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.3"
+    }
 }

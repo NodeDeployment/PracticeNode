@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/48c5729d-515b-4f25-9fa6-226228b7fdcc/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/PracticeNode-as",
-    "appService.deploySubpath": "."
-}
